@@ -1,4 +1,4 @@
-<h1>Hi, I'm Erick, an <a href="https://linkedin.com/in/erickrobles310"> Entry Level IT Student </a>☺</h1>
+<h1>Hi, I'm Erick, an <a href="https://linkedin.com/in/erickrobles310"> Aspiring IT Proffesional </a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
